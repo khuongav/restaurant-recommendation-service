@@ -1,0 +1,23 @@
+__pycache__/
+*~
+.~*
+._*
+
+# python compiled files
+*.pyc
+
+# MAC folder
+.DS_Store
+
+# ignore vim swap files
+*.swp
+
+# vagrant files
+.vagrant
+
+# solr_response.bin
+*.bin
+
+node_modules
+
+.coverage

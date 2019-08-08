@@ -1,0 +1,8 @@
+flask
+gunicorn
+pandas
+bs4
+selenium
+joblib
+mock
+coverage
