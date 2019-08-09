@@ -1,6 +1,6 @@
 # Restaurant Recommender
 
-A restaurant recommender service based on data crawled from Google Maps Places.
+A restaurant recommender service based on data crawled from Google Maps Places with Selenium.
 
 
 ## Development
